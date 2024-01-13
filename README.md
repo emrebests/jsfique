@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Merhaba%20👋%20Ben%20Kaan%20Doğanay&width=1200&height=300)](https://github.com/ogulcan-dev)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Merhaba%20👋%20Ben%20Kaan%20Emre%20Doğanay&width=1200&height=300)](https://github.com/ogulcan-dev)
 
 
 
