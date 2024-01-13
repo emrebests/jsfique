@@ -7,9 +7,9 @@
 
 ### Kimdir Bu JsFique?
 - :computer: Yaklaşık 2 yıldır discord üzerinde bot ve back-end geliştiriciliği yapmaktayım.
-- :computer: Boş zamanlarımda genellikle website ve bot kodlarım DCVOTE, WORDER, TECHNO adında botlarda geliştirici ve destek ekibiyim.
+- :computer: Boş zamanlarımda genellikle website ve bot kodlarım bazı botlarda geliştirici ve destek ekibiyim.
 
-- 📫 Bana ulaşmak isterseniz **ogulcanozturk72@gmail.com** adresini kullanabilirsiniz. 
+- 📫 Bana ulaşmak isterseniz **jsfique@softer.gg** adresini kullanabilirsiniz. 
  
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ogulcan-dev&data=followers,repositories,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
  
