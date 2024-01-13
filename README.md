@@ -10,6 +10,5 @@
 - :computer: Boş zamanlarımda genellikle website ve bot kodlarım bazı botlarda geliştirici ve destek ekibiyim.
 
 - 📫 Bana ulaşmak isterseniz **jsfique@softer.gg** adresini kullanabilirsiniz. 
- 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=jsfique&data=followers,repositories,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
+
  
