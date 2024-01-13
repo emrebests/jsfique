@@ -11,7 +11,5 @@
 
 - 📫 Bana ulaşmak isterseniz **jsfique@softer.gg** adresini kullanabilirsiniz. 
  
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ogulcan-dev&data=followers,repositories,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=jsfique&data=followers,repositories,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
  
- [![ github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ogulcan-dev&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
