@@ -7,7 +7,7 @@
 
 ### Kimdir Bu JsFique?
 - :computer: Yaklaşık 2 yıldır discord üzerinde bot ve back-end geliştiriciliği yapmaktayım.
-- :computer:Yazılıma Arduino üzerinde küçük projeler yaparak başladım, ardından bir abimin tavsiyesi üzerine web geliştirme alanına geçiş yaptım ve orda projelerimi geliştirmeye devam ettim.
+- :computer: Boş zamanlarımda genellikle website ve bot kodlarım DCVOTE, WORDER, TECHNO adında botlarda geliştirici ve destek ekibiyim.
 
 - 📫 Bana ulaşmak isterseniz **ogulcanozturk72@gmail.com** adresini kullanabilirsiniz. 
  
